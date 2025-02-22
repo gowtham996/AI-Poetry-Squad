@@ -2,7 +2,6 @@
 
 An AI agent team that collaboratively writes poems using Groq's LLMs (Llama 3/Mixtral). Features brainstorming, writing, editing agents, and rhyme analysis.
 
-![Demo](https://i.imgur.com/5XJQZ6L.png) <!-- Add your screenshot later -->
 
 ## Features
 - **Multi-Agent Workflow**: Brainstorm → Write → Edit → Analyze
